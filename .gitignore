@@ -1,0 +1,15 @@
+# Visual Studio 项目忽略规则
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+bin/
+obj/
+*.log
+*.cache
+*.pdb
+*.vshost.exe
+
+# 个人配置
+appsettings.Development.json
