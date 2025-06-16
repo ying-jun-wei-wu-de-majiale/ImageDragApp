@@ -1,4 +1,4 @@
-# Visual Studio 项目忽略规则
+# Visual Studio 
 *.suo
 *.user
 *.userosscache
@@ -11,5 +11,3 @@ obj/
 *.pdb
 *.vshost.exe
 
-# 个人配置
-appsettings.Development.json
